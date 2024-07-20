@@ -6,7 +6,7 @@ Add labels and customize colors.<br><br>
 **2. Scatter Plot for Age vs. Premium:** <br>
 Create a scatter plot with age on the x-axis and premium on the y-axis. <br>
 Use color to represent policy type. <br><br>
-**3. Pie Chart for Policy Types: ** <br>
+**3. Pie Chart for Policy Types:** <br>
 Visualize the distribution of policy types using a pie chart. <br>
 Include percentages in the chart. <br><br>
 **4. Line Chart for Claims Over Time:** <br>

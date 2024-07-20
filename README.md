@@ -3,7 +3,7 @@
 **1. Create a Bar Chart for Claim Amounts:** <br>
 Plot a bar chart showing the average claim amount by policy type.<br>
 Add labels and customize colors.<br><br>
-**2. Scatter Plot for Age vs. Premium:** <br>
+**2. Scatter Plot for Income vs. Premium:** <br>
 Create a scatter plot with age on the x-axis and premium on the y-axis. <br>
 Use color to represent policy type. <br><br>
 **3. Pie Chart for Policy Types:** <br>
@@ -18,8 +18,8 @@ Use conditional formatting to highlight high or low values. <br><br>
 **6. KPIs:** <br>
 Create from 3 to 5 important metrics for your dashboard. <br>
 Examples: Total Claims Amount, Average Premium, Claim Frequency, Number of Claims, Loss Ratio, Average Age of Customers, etc. <br><br>
-**7. Create a Filter for Age Groups:** <br>
-Create a filter for age groups (e.g., 18-25, 26-35, etc.). <br>
+**7. Create a Filter According to State:** <br>
+Create a filter for state. <br>
 Use this filter to dynamically update other visualizations. <br><br>
 **8. Design a Dashboard:** <br>
 Create a dashboard to insert and arrange the plots you created. <br>

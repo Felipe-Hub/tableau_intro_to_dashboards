@@ -10,11 +10,11 @@ Use color to represent policy type. <br><br>
 Visualize the distribution of policy types using a pie chart. <br>
 Include percentages in the chart. <br><br>
 **4. Line Chart for Claims Over Time:** <br>
-Plot a line chart showing the trend of claims over months or years. <br>
+Plot a line chart showing the trend of claims over weeks, month and year. <br>
 Add a trend line. <br><br>
 **5. Summary Table:** <br>
 Select relevant columns such as “Customer ID,” “Policy Type,” “Claim Amount,” and “Premium.” <br>
-Use conditional formatting to highlight high or low values. <br><br>
+Use the highlight table to better identify high or low values. <br><br>
 **6. KPIs:** <br>
 Create from 3 to 5 important metrics for your dashboard. <br>
 Examples: Total Claims Amount, Average Premium, Claim Frequency, Number of Claims, Loss Ratio, Average Age of Customers, etc. <br><br>
